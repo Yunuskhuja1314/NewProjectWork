@@ -656,7 +656,7 @@ body{
 .answer {
     position: relative;
     min-width: 0;
-    max-width: 768px;
+    max-width: 698px;
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
