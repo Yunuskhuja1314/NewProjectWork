@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'Segoe';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/Segoe\ UI.ttf');
+}
+@font-face {
+font-family: 'Segoe-b';
+src: url('../fonts/Segoe\ UI\ Bold.ttf');
+}
