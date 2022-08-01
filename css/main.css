@@ -60,10 +60,8 @@ body{
     width: 229px;
     height: 53px;
     display: flex;
-    justify-content: Montserrat;
     align-items: center;
     justify-content: space-between;
-    /* border: 1px solid #000; */
 }
 .header_btn :nth-child(1){
     width: 59px;
